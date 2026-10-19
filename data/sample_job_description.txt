@@ -1,0 +1,19 @@
+Job Title: Data Scientist (Entry Level)
+
+We are looking for a motivated Data Scientist to join our analytics team.
+
+Responsibilities:
+- Analyze large datasets using Python and SQL to extract actionable insights.
+- Build and evaluate machine learning models using scikit-learn and pandas.
+- Apply NLP techniques to process and analyze text data.
+- Create data visualizations using Tableau and Power BI for stakeholders.
+- Collaborate with engineering teams to deploy models using Docker and REST APIs.
+- Maintain version control using Git and GitHub.
+
+Requirements:
+- Strong proficiency in Python, SQL, and statistics.
+- Hands-on experience with pandas, numpy, and scikit-learn.
+- Familiarity with machine learning and deep learning concepts (TensorFlow or PyTorch).
+- Experience with data visualization tools such as Tableau or Power BI.
+- Understanding of NLP fundamentals is a plus.
+- Good communication skills and ability to work in a team environment.

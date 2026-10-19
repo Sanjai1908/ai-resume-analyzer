@@ -1,0 +1,32 @@
+JOHN DOE
+Aspiring Data Scientist | Python Developer
+
+SUMMARY
+Recent Computer Science graduate with hands-on project experience in Python,
+machine learning, and data analysis. Passionate about solving real-world
+problems using data-driven approaches and building end-to-end ML applications.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, Machine Learning, Data Analysis,
+Data Visualization, Matplotlib, Git, GitHub, Flask, Statistics
+
+PROJECTS
+1. Customer Churn Prediction
+   Built a machine learning model using scikit-learn and pandas to predict
+   customer churn with 85% accuracy. Performed data cleaning, feature
+   engineering, and visualization using matplotlib.
+
+2. Sales Dashboard
+   Created an interactive data visualization dashboard using Python and
+   Streamlit to track sales performance metrics for a mock retail dataset.
+
+3. Student Result Management System
+   Developed a Flask-based web application with SQL database integration
+   for managing student records, including REST API endpoints.
+
+EDUCATION
+B.Tech in Computer Science, XYZ University, 2024
+
+CERTIFICATIONS
+- Python for Data Science (Coursera)
+- Machine Learning Fundamentals (Udemy)
